@@ -36,6 +36,18 @@ h3 {
     font-size: 5rem;
 }
 
+.main-title {
+    margin-bottom: 0;
+}
+
+.main-title-h3 {
+    background: linear-gradient(to left, #4200fc, #f901fc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 3rem;
+    margin-bottom: 3rem;
+}
+
 h4 {
     font-size: 4.5rem;
 }

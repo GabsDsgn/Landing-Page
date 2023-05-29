@@ -1,5 +1,5 @@
 .main-bg {
-    background-image: url('../imgs/main-bg.svg');
+    background-image: url('../imgs/main.svg');
     background-size: cover;
     background-position: center center;
     color: var(--white-color);
